@@ -1,0 +1,30 @@
+# Estrutura do Projeto
+- src
+  - lucky-number
+    - dto
+      - create-lucky-number.dto.ts
+      - update-lucky-number.dto.ts
+    - entities
+      - lucky-number.entity.ts
+    - lucky-number.controller.spec.ts
+    - lucky-number.controller.ts
+    - lucky-number.module.ts
+    - lucky-number.service.spec.ts
+    - lucky-number.service.ts
+  - app.controller.spec.ts
+  - app.controller.ts
+  - app.module.ts
+  - app.service.ts
+  - main.ts
+- .env
+- .eslintrc.js
+- .gitignore
+- .prettierrc
+- estrutura_projeto.txt
+- export-tree.ps1
+- nest-cli.json
+- package.json
+- README.md
+- tsconfig.build.json
+- tsconfig.json
+- yarn.lock
